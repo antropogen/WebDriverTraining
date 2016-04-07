@@ -707,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1460058700829</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Synchronize">
+      <created>1460058793868</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1460058793868</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -780,7 +787,8 @@
     <MESSAGE value="Add test properties" />
     <MESSAGE value="Update workspace" />
     <MESSAGE value="Update properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update properties" />
+    <MESSAGE value="Synchronize" />
+    <option name="LAST_COMMIT_MESSAGE" value="Synchronize" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
