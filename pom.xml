@@ -32,6 +32,11 @@
             <artifactId>htmlelements-all</artifactId>
             <version>1.9</version>
         </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.8</version>
+        </dependency>
 
     </dependencies>
 
